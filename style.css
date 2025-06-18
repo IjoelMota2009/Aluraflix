@@ -1,7 +1,8 @@
 body {
     color: rgb(225 225 225);
     background: rgb(25 44 66);
-    margin: opx;
+    margin: 0px;
+    font-family: "Caprasimo", serif;
 }
 
 header {
