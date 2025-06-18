@@ -27,9 +27,6 @@ h1{
     margin-top: 10px;
     margin-bottom: 10px;
 }
-img{
-    height: 200px;
-}
 .terror{
     display:flex;
     overflow-x:auto;
@@ -38,4 +35,11 @@ img{
 .filmet{
     padding-left: 10px;
     padding-right: 10px;
+} 
+.terror img {
+    opacity: 0.5;
+    height: 200px;
+}
+.terror img:hover{
+    opacity: 1;
 }
