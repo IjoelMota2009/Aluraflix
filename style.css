@@ -11,7 +11,7 @@ header {
     font-size: 40px;
     color: rgb(50, 50, 156);
 }
-section{
+.chamada{
     background: rgb(92, 197, 238);
     padding-bottom: 10px;
     padding-top: 10px;
@@ -35,7 +35,7 @@ img{
     overflow-x:auto;
     gap:10px;
 }
-section{
+.filmet{
     padding-left: 10px;
     padding-right: 10px;
 }
