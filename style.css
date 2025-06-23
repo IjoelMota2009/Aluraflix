@@ -1,9 +1,9 @@
 body {
     color: rgb(225 225 225);
-    margin-bottom: 100px;
     background: rgb(25 44 66);
-    margin: 0px;
+    margin-bottom: 100px;
     font-family: "Caprasimo", serif;
+
 }
 
 header {
@@ -44,4 +44,7 @@ h1{
 .terror img:hover{
     opacity: 1;
     border: 3px solid rgb(38, 157, 255);
+}
+.filmet h2 {
+    margin-top: 50px;
 }
