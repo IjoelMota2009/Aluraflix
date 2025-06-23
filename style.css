@@ -29,7 +29,6 @@ h1{
     margin-bottom: 10px;
 }
 .terror{
-    margin-top: 50px;
     display:flex;
     overflow-x:auto;
     gap:10px;
