@@ -1,5 +1,6 @@
 body {
     color: rgb(225 225 225);
+    margin-bottom: 100px;
     background: rgb(25 44 66);
     margin: 0px;
     font-family: "Caprasimo", serif;
@@ -28,6 +29,7 @@ h1{
     margin-bottom: 10px;
 }
 .terror{
+    margin-top: 50px;
     display:flex;
     overflow-x:auto;
     gap:10px;
